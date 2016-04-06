@@ -1,2 +1,2 @@
 # ud
-First repository
+Intro to Data Science (Udacity)
